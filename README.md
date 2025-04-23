@@ -33,5 +33,5 @@ converted the data into dataframe
 a visualization of a rolling 7 days window was shown in the data to see how the air-quality fluctuates during the week
 the data was splitted 80% for training set and 20% for testing sets
 the mean values, mae baseline, training_mae and testing_mae values were collected.....the testing_mae value is higher than the training_mae which shouldn't be,
-but because of the low data that was used in testing the data the mean_absolute_error was bigger tha thetraining mae
+but because of the low data that was used in testing the data the mean_absolute_error was bigger tha the training mae
 
