@@ -6,7 +6,7 @@
 * This project involves building a Linear Regression Time Series Model to predict air quality (PM2.5 readings) over time. By creating a time-shifted feature and analyzing timestamped sensor data, the model forecasts future PM2.5 levels based on historical patterns.
 
 ---
-# LIBRARIES
+# 🔧 LIBRARIES
 
 * pandas
 
