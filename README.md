@@ -8,9 +8,9 @@
 ---
 # LIBRARIES
 
-* pandas as pd
-  
-* numpy as np
+* pandas
+
+* Numpy
   
 * matplotlib
   
